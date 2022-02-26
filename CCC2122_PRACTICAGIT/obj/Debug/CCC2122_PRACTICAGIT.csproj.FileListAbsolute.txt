@@ -1,0 +1,10 @@
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\bin\Debug\CCC2122_PRACTICAGIT.exe.config
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\bin\Debug\CCC2122_PRACTICAGIT.exe
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\bin\Debug\CCC2122_PRACTICAGIT.pdb
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.csproj.AssemblyReference.cache
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.Form1.resources
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.Properties.Resources.resources
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.csproj.GenerateResource.cache
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.csproj.CoreCompileInputs.cache
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.exe
+C:\Users\rabic\source\repos\CCC2122\PracticaGit\CCC2122_PRACTICAGIT\obj\Debug\CCC2122_PRACTICAGIT.pdb
