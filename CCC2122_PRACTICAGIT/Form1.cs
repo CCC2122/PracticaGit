@@ -65,6 +65,7 @@ namespace CCC2122_PRACTICAGIT
             }
         }
     }
+    //Versión Cintia Castillo
 
     class Alumnos
     {
