@@ -38,6 +38,7 @@ namespace CCC2122_PRACTICAGIT
 
     class Alumno
     {
+        //Probando a cambiar cosas con el otro perfil
         private string nombre;
         private int nota;
         public string Nombre
